@@ -16,11 +16,11 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./assets/images/screenshot.png)
 
 ### Links
 
- Live Site URL: [Vercel](https://frontend-testimonialsgrid.vercel.app/)
+ Live Site URL: [Vercel](https://frontend-newsletter-signup.vercel.app/)
 
 ## My process
 
